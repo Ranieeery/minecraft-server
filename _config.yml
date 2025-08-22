@@ -1,3 +1,4 @@
-theme: jekyll-theme-primer
+remote_theme: pages-themes/dark
 plugins:
+  - jekyll-remote-theme
   - jekyll-github-metadata
