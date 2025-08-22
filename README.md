@@ -1,3 +1,24 @@
+<style>
+  :root { color-scheme: dark; }
+  html, body {
+    background: #1e1e1e;
+    color: #e6e6e6;
+  }
+  a { color: #8ab4f8; }
+  h1, h2, h3, h4, h5, h6 { color: #eaeaea; }
+  hr { border: 0; border-top: 1px solid #262a31; }
+
+  table { width: 100%; border-collapse: collapse; }
+  th, td { border: 1px solid #262a31; padding: 8px 10px; }
+  th { background: #12151b; text-align: left; }
+  tr:nth-child(even) { background: #12141a; }
+
+  pre { background: #0b0d11; color: #d9e2ff; border: 1px solid #262a31; border-radius: 10px; padding: 12px; overflow: auto; }
+  code { background: #0b0d11; border: 1px solid #262a31; border-radius: 4px; padding: 1px 4px; }
+  
+  blockquote { color: #cfcfcf; border-left: 4px solid #262a31; background: #12141a; padding: 8px 12px; margin: 8px 0; }
+</style>
+
 # Modpack
 
 ## FAQ
