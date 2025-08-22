@@ -1,3 +1,1 @@
 remote_theme: pages-themes/dark
-plugins:
-  - jekyll-remote-theme
